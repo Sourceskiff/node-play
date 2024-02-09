@@ -1,2 +1,2 @@
 # node play
-nodejs
+node
